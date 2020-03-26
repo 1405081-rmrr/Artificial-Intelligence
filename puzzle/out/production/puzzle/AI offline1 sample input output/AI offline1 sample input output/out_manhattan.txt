@@ -1,0 +1,203 @@
+Case 1
+
+Not solvable
+
+
+Case 2
+
+Not solvable
+
+
+Case 3
+
+Not solvable
+
+
+Case 4
+
+Not solvable
+
+
+Case 5
+
+Using Manhattan
+Cost 0
+Time taken 6 microseconds
+Node explored 1
+
+
+
+Case 6
+
+Using Manhattan
+Cost 9
+Time taken 60 microseconds
+Node explored 10
+
+
+
+Case 7
+
+Using Manhattan
+Cost 15
+Time taken 83 microseconds
+Node explored 16
+
+
+
+Case 8
+
+Using Manhattan
+Cost 12
+Time taken 114 microseconds
+Node explored 20
+
+
+
+Case 9
+
+Using Manhattan
+Cost 24
+Time taken 1,309 microseconds
+Node explored 211
+
+
+
+Case 10
+
+Using Manhattan
+Cost 30
+Time taken 4,681 microseconds
+Node explored 717
+
+
+
+Case 11
+
+Using Manhattan
+Cost 26
+Time taken 14,639 microseconds
+Node explored 2107
+
+
+
+Case 12
+
+Using Manhattan
+Cost 31
+Time taken 52,162 microseconds
+Node explored 7082
+
+
+
+Case 13
+
+Using Manhattan
+Cost 42
+Time taken 205,115 microseconds
+Node explored 25929
+
+
+
+Case 14
+
+Using Manhattan
+Cost 50
+Time taken 403,424 microseconds
+Node explored 47968
+
+
+
+Case 15
+
+Using Manhattan
+Cost 44
+Time taken 812,674 microseconds
+Node explored 91986
+
+
+
+Case 16
+
+Using Manhattan
+Cost 38
+Time taken 1,205,538 microseconds
+Node explored 132678
+
+
+
+Case 17
+
+Using Manhattan
+Cost 38
+Time taken 1,229,741 microseconds
+Node explored 141517
+
+
+
+Case 18
+
+Using Manhattan
+Cost 41
+Time taken 1,839,236 microseconds
+Node explored 217088
+
+
+
+Case 19
+
+Using Manhattan
+Cost 47
+Time taken 2,306,691 microseconds
+Node explored 252027
+
+
+
+Case 20
+
+Using Manhattan
+Cost 45
+Time taken 3,611,812 microseconds
+Node explored 418271
+
+
+
+Case 21
+
+Using Manhattan
+Cost 45
+Time taken 9,397,765 microseconds
+Node explored 1005175
+
+
+
+Case 22
+
+Using Manhattan
+Cost 45
+Time taken 10,620,860 microseconds
+Node explored 1102954
+
+
+
+Case 23
+
+Using Manhattan
+Cost 49
+Time taken 11,946,847 microseconds
+Node explored 1344783
+
+
+
+Case 24
+
+Using Manhattan
+Cost 51
+Time taken 20,666,860 microseconds
+Node explored 2024120
+
+
+
+Case 25 to Case 26
+
+Laptop goes to sleep

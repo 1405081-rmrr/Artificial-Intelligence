@@ -1,0 +1,95 @@
+Case 1
+
+Not solvable
+
+
+Case 2
+
+Not solvable
+
+
+Case 3
+
+Not solvable
+
+
+Case 4
+
+Not solvable
+
+
+Case 5
+
+Using Displacement
+Cost 0
+Time taken 4 microseconds
+Node explored 1
+
+
+
+Case 6
+
+Using Displacement
+Cost 9
+Time taken 58 microseconds
+Node explored 10
+
+
+
+Case 7
+
+Using Displacement
+Cost 15
+Time taken 81 microseconds
+Node explored 16
+
+
+
+Case 8
+
+Using Displacement
+Cost 12
+Time taken 348 microseconds
+Node explored 57
+
+
+
+Case 9
+
+Using Displacement
+Cost 24
+Time taken 161,256 microseconds
+Node explored 20822
+
+
+
+Case 10
+
+Using Displacement
+Cost 30
+Time taken 3,317,011 microseconds
+Node explored 376243
+
+
+
+Case 11
+
+Using Displacement
+Cost 26
+Time taken 1,083,776 microseconds
+Node explored 89232
+
+
+
+Case 12
+
+Using Displacement
+Cost 31
+Time taken 13,423,199 microseconds
+Node explored 1377901
+
+
+
+Case 13 to Case 26
+
+Laptop goes to sleep
