@@ -29,5 +29,5 @@ public class Node {
         this.x = newX;
         this.y = newY;
     }
-
+    //hudai open korsi. kichui korumna
 }
